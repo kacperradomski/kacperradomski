@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Kacper </h1>
 
-
+# 💫 About Me:
 I'm currently learning new things in the dev environment!
 
 ## 🌐 Socials:
