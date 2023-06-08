@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kacper" alt="kacper" /></a> </p>
 
 # 💫 About Me:
 I'm currently learning new things in the dev environment!
