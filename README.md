@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNkMWM5MTNmM2JlZTlkYTJiMGNjNGJhMTQ2MjNjZWQwN2FlNDhkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  
 </div>
-
-
-
 
 <h1 align="center">Hi 👋, I'm Kacper </h1>
 
