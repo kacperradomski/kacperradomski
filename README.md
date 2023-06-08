@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNkMWM5MTNmM2JlZTlkYTJiMGNjNGJhMTQ2MjNjZWQwN2FlNDhkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Kacper</h1>
+<h1 align="center">Hi 👋, I'm Kacper</h1><br>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_radomski) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/FOURkeey) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/XarrrdaS) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PizderKlajson) 
 
 I'm currently learning new things in the dev environment!
@@ -13,3 +14,4 @@ I'm currently learning new things in the dev environment!
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
