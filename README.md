@@ -2,7 +2,7 @@
 
 I'm currently learning new things in the dev environment!
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjljY2I4MjNhYzBmYzFlNmNiZWQ4ZTc0ZDg3OTVhNjE4OGI3ODZkNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
 </div>
 
 ## 🌐 Socials:
