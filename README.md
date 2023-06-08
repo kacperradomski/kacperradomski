@@ -4,8 +4,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Kacper </h1>
-
-I'm currently learning new things in the dev environment!
+I'm 20-year-old with a passion for the latest technology and a keen interest in programming. 
+I have a strong analytical mind and I'm constantly hungry for knowledge in the programming world. 
 
 ## 🌐 Socials:
 
