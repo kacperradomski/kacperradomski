@@ -15,7 +15,7 @@ I treat each project with the utmost care because the most important thing for m
 My passion for WEB programming motivates me to constantly develop and improve my skills. 
 I dedicate my time and skills to achieving the best results and creating projects that stand out from others.
 
-Feel free to visit my website and GitHub profile:
+Feel free to visit my website:
 https://www.mekacper.pl/
 
 ## 🌐 Socials:
