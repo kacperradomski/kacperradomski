@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNkMWM5MTNmM2JlZTlkYTJiMGNjNGJhMTQ2MjNjZWQwN2FlNDhkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
-# 💫 About Me:
+<h1> 💫 About Me:</h1>
 I'm a passionate WEB developer with 2 years of experience. 👨‍💻 Web development isn't just a job for me, but most importantly, it is my hobby and an opportunity to meet the unique requirements of each project. As a perfectionist, I pay close attention to every detail, striving for excellence in everything I do. <br><br>I'm not afraid of challenges, and I believe that nothing is impossible. 💪 I quickly and efficiently learn new technologies and integrate them into my work, and every project I undertake is treated with utmost care and dedication. For me, the quality of work and customer satisfaction are the top priorities. <br><br>My passion for WEB programming motivates me to constantly learn, grow and improve my skills. 🚀 I'm dedicated to achieving the best results and creating projects that stand out from the rest. <br><br>Feel free to check out my website 😊: https://www.mekacper.pl/
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/WJtEYJ4j) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_radomski) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kacper-radomski-499924282) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/FOURkeey) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/XarrrdaS) 
 
 # 💻 Tech Stack:
