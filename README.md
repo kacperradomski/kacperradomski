@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" text-align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRoZGRqODdrOWJzaHd6OHJtZGhqeG93a2R1NGxiM2RicHYzMGJ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiMBUPZUhUg4HRV6PW/giphy.gif" width="40" height="40" /><h1>I'm Kacper</h1>
 </div><br>
 <h1> 💫 About Me:</h1>
