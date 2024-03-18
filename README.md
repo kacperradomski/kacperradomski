@@ -6,5 +6,7 @@ I'm a passionate programmer in web development. 👨‍💻 My work is both my h
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XarrrdaS&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=XarrrdaS&theme=react&hide_border=true)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XarrrdaS&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="height: 200px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=XarrrdaS&theme=react&hide_border=true" style="height: 200px;">
+</div>
