@@ -6,5 +6,5 @@ I'm a passionate programmer in web development. 👨‍💻 My work is both my h
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=XarrrdaS&theme=react&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=XarrrdaS&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XarrrdaS&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
