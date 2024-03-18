@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRoZGRqODdrOWJzaHd6OHJtZGhqeG93a2R1NGxiM2RicHYzMGJ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiMBUPZUhUg4HRV6PW/giphy.gif" width="40" height="40" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hpMWxyMW1kd2F3czJ5YXU1M3dtdW4wOXk2a3E0bDE2dTJ1am1pcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqGhQEXe4J4ghTTCEi/giphy.gif" width="40" height="40" />
   <span style="font-size: 100px;">I'm Kacper</span>
 </div><br>
 
