@@ -1,7 +1,10 @@
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <h1>Hi there, I'm Kacper 👋</h1>
 </div>
+-->
+<img src="https://github.com/XarrrdaS/XarrrdaS/blob/main/banner.png" style="margin-right: 20px;">
+
 I'm a web development enthusiast who thrives on modern solutions. My primary focus is on React.js and related technologies like Node.js, API and databases. 
 <br><br>
 I'm always looking for opportunities that will enhance my professional growth. I'm constantly learning new solutions and technologies.
