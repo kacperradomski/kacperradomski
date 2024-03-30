@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Kacper 👋</h1>
 </div>
 -->
-<img src="https://github.com/XarrrdaS/XarrrdaS/blob/main/profile-bannerr.png" style="margin-right: 20px;">
+<img src="https://github.com/XarrrdaS/XarrrdaS/blob/main/profile-bannerr.png">
 
 I'm a web development enthusiast who thrives on modern solutions. My primary focus is on React.js and related technologies like Node.js, API and databases. 
 <br><br>
