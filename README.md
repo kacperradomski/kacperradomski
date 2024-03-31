@@ -20,7 +20,7 @@ but alson I enjoy growing and working in related technologies like<br>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
 
 I'm always looking for opportunities that will enhance my professional growth. I'm constantly learning new solutions and technologies.
-<br><br>
+<br>
 
 My regular workout routine instills discipline in my work and as a perfectionist, I strive for excellence in all my activities.
 <br><br>
