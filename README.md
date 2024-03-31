@@ -4,8 +4,8 @@
 </div>
 -->
 <img src="https://github.com/XarrrdaS/XarrrdaS/blob/main/profile-bannerr.png">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XarrrdaS&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" height="175" style="margin-right: 20px;" align="right">
 <div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XarrrdaS&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" height="175" style="margin-right: 20px;" align="right">
 I'm a web development enthusiast who thrives on modern solutions.<br><br>
   
 My core focus lies in **React.js** and **API**. However, I take pleasure in exploring and expanding my skills in associated technologies such as **Node.js**, **JavaScript**, **HTML5**, **CSS3**, and **MongoDB**.
