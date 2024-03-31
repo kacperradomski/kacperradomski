@@ -21,7 +21,7 @@ but alson I enjoy growing and working in related technologies like<br>
 
 I'm always looking for opportunities that will enhance my professional growth. I'm constantly learning new solutions and technologies.
 <br><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk5MzIxM3JzbnNoMXB6ZWRuNnR3cnA4bnV3aW44N2RqdzVpd29wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" height="175" style="margin-left: 20px;" align="right">
+
 My regular workout routine instills discipline in my work and as a perfectionist, I strive for excellence in all my activities.
 <br><br>
 <a href="https://www.mekacper.pl"><img src="https://img.shields.io/badge/mekacper.pl-Checkout%20my%20website!-cadetblue?labelColor=darkslategrey&style=for-the-badge&link=https://www.mekacper.pl" alt="mekacper.pl" /></a>
