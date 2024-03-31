@@ -22,7 +22,7 @@ but alson I enjoy growing and working in related technologies like<br>
 I'm always looking for opportunities that will enhance my professional growth. I'm constantly learning new solutions and technologies.
 <br>
 
-My regular workout routine instills discipline in my work and as a perfectionist, I strive for excellence in all my activities.
+My regular workout routine and perfectionism instills discipline and excellence in all my activities.
 <br><br>
 <a href="https://www.mekacper.pl"><img src="https://img.shields.io/badge/mekacper.pl-Checkout%20my%20website!-cadetblue?labelColor=darkslategrey&style=for-the-badge&link=https://www.mekacper.pl" alt="mekacper.pl" /></a>
 <a href="https://www.linkedin.com/in/kacper-radomski/"><img src="https://img.shields.io/badge/Kacper%20Radomski-Let's%20keep%20in%20touch!-rosybrown?labelColor=indianred&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/kacper-radomski/" alt="Kacper Radomski"/></a>
