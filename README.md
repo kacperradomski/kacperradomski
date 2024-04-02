@@ -9,7 +9,7 @@
 I'm a web development enthusiast who thrives on modern solutions.<br><br>
   
 My core focus lies in **React.js** and **API**. However, I take pleasure in exploring and expanding my skills in associated technologies such as **Node.js**, **JavaScript**, **HTML5**, **CSS3**, and **MongoDB**.
-<br>d
+<br>
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/API-darkslategray?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" alt="API" /><br>
 but alson I enjoy growing and working in related technologies like<br>
