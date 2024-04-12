@@ -19,7 +19,7 @@ but alson I enjoy growing and working in related technologies like<br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
 
-I'm always looking for opportunities that will enhance my professional growth. I'm constantly learning new solutions and technologies.
+I'm always looking for opportunities that will enhance my professional growth. I'm constantly learning new solutions and technologies..
 <br>
 
 My regular workout routine and perfectionism instill discipline and excellence in all my activities.
