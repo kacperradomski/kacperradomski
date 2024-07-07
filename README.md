@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XarrrdaS&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" height="175" style="margin-right: 20px;" align="right">
 I'm a web development enthusiast who thrives on modern solutions.<br><br>
   
-My core focus lies in **React.js** and **API**. However, I take pleasure in exploring and expanding my skills in associated technologies such as **Node.js**, **JavaScript**, **HTML5**, **CSS3**, and **MongoDB**.
+My core focus lies in **React.js** and **APIs**. However, I take pleasure in exploring and expanding my skills in associated technologies such as **JavaScript**, **Node.js** and **MongoDB**.
 <br>
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/API-darkslategray?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" alt="API" /><br>
