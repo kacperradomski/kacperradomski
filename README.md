@@ -22,10 +22,10 @@ but alson I enjoy growing and working in related technologies like<br>
 I'm always looking for opportunities that will enhance my professional growth. Also, constantly learning about new solutions and technologies.
 <br>
 <br><br>
-<a href="https://www.mekacper.pl" target="_blank" rel="noopener noreferrer">
+<a href="https://www.mekacper.pl" target="_blank">
   <img src="https://img.shields.io/badge/mekacper.pl-Checkout%20my%20website!-cadetblue?labelColor=darkslategrey&style=for-the-badge&link=https://www.mekacper.pl" alt="mekacper.pl" />
 </a>
-<a href="https://www.linkedin.com/in/kacper-radomski/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/kacper-radomski/" target="_blank">
   <img src="https://img.shields.io/badge/Kacper%20Radomski-Let's%20keep%20in%20touch!-rosybrown?labelColor=indianred&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/kacper-radomski/" alt="Kacper Radomski"/>
 </a>
 
