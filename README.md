@@ -6,9 +6,8 @@
 <img src="https://github.com/XarrrdaS/XarrrdaS/blob/main/profile-bannerr.png">
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XarrrdaS&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" height="175" style="margin-right: 20px;" align="right">
-I'm a web development enthusiast who thrives on modern solutions.<br><br>
-  
-My core focus lies in **React.js** and **APIs**. However, I take pleasure in exploring and expanding my skills in associated technologies such as **JavaScript**, **Node.js** and **MongoDB**.
+I am keenly focused on web development.<br><br>
+I find joy in learning and growing through modern solutions with strong use of **JavaScript** and its libraries. Combining it all together with databases like **MongoDB** and various types of **APIs** is particularly rewarding.
 <br>
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/API-darkslategray?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" alt="API" /><br>
@@ -21,8 +20,6 @@ but alson I enjoy growing and working in related technologies like<br>
 
 I'm always looking for opportunities that will enhance my professional growth. I'm constantly learning new solutions and technologies.
 <br>
-
-My regular workout routine and perfectionism instill discipline and excellence in all my activities.
 <br><br>
 <a href="https://www.mekacper.pl"><img src="https://img.shields.io/badge/mekacper.pl-Checkout%20my%20website!-cadetblue?labelColor=darkslategrey&style=for-the-badge&link=https://www.mekacper.pl" alt="mekacper.pl" /></a>
 <a href="https://www.linkedin.com/in/kacper-radomski/"><img src="https://img.shields.io/badge/Kacper%20Radomski-Let's%20keep%20in%20touch!-rosybrown?labelColor=indianred&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/kacper-radomski/" alt="Kacper Radomski"/></a>
