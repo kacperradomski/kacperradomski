@@ -22,8 +22,13 @@ but alson I enjoy growing and working in related technologies like<br>
 I'm always looking for opportunities that will enhance my professional growth. Also, constantly learning about new solutions and technologies.
 <br>
 <br><br>
-<a href="https://www.mekacper.pl" target="_blank"><img src="https://img.shields.io/badge/mekacper.pl-Checkout%20my%20website!-cadetblue?labelColor=darkslategrey&style=for-the-badge&link=https://www.mekacper.pl" alt="mekacper.pl" /></a>
-<a href="https://www.linkedin.com/in/kacper-radomski/" target="_blank"><img src="https://img.shields.io/badge/Kacper%20Radomski-Let's%20keep%20in%20touch!-rosybrown?labelColor=indianred&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/kacper-radomski/" alt="Kacper Radomski"/></a>
+<a href="https://www.mekacper.pl" target="_blank">
+  <img src="https://img.shields.io/badge/mekacper.pl-Checkout%20my%20website!-cadetblue?labelColor=darkslategrey&style=for-the-badge&link=https://www.mekacper.pl" alt="mekacper.pl" />
+</a>
+<a href="https://www.linkedin.com/in/kacper-radomski/" target="_blank">
+  <img src="https://img.shields.io/badge/Kacper%20Radomski-Let's%20keep%20in%20touch!-rosybrown?labelColor=indianred&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/kacper-radomski/" alt="Kacper Radomski"/>
+</a>
+
 </div>
 <!-- <div style="text-align: center; display: flex; justify-content: space-around;" align="center" margin="50px" align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpkOWQxOW56NHZsZ28yc3JicDBqcndla25semgwMml0ZjNkcjNjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yg6pEloDXLz6evd0ng/giphy.gif" height="175" style="margin-right: 20px;">
