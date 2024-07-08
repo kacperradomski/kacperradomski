@@ -10,10 +10,8 @@ I find joy in learning and growing through modern solutions with strong use of *
 I'm always looking for opportunities that will enhance my professional growth. Also, constantly learning about new solutions and technologies.
 <br><br>
 
-<a href="https://www.mekacper.pl">
-<img src="https://img.shields.io/badge/mekacper.pl-Checkout%20my%20website!-cadetblue?labelColor=darkslategrey&style=for-the-badge&link=https://www.mekacper.pl" alt="mekacper.pl" />
-</a>
+<a href="https://www.mekacper.pl"><img src="https://img.shields.io/badge/mekacper.pl-Checkout%20my%20website!-cadetblue?labelColor=darkslategrey&style=for-the-badge&link=https://www.mekacper.pl" alt="mekacper.pl" /></a>
 <a href="https://www.linkedin.com/in/kacper-radomski/">
-  <img src="https://img.shields.io/badge/Kacper%20Radomski-Let's%20keep%20in%20touch!-rosybrown?labelColor=indianred&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/kacper-radomski/" alt="Kacper Radomski"/>
+<img src="https://img.shields.io/badge/Kacper%20Radomski-Let's%20keep%20in%20touch!-rosybrown?labelColor=indianred&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/kacper-radomski/" alt="Kacper Radomski"/>
 </a>
 </div>
