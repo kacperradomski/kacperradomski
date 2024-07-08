@@ -9,7 +9,7 @@
 I am keenly focused on web development.<br><br>
   
 I find joy in learning and growing through modern solutions with strong use of **JavaScript** and its libraries. Combining it all together with databases like **MongoDB** and various types of **APIs** is particularly rewarding.
-<br><br>
+<br>
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/API-darkslategray?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" alt="API" /><br>
 but alson I enjoy growing and working in related technologies like<br>
