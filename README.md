@@ -1,6 +1,6 @@
-<img src="https://github.com/radkacper/radkacper/blob/main/profile-bannerr.png">
+<img src="https://github.com/kacperradomski/kacperradomski/blob/main/profile-bannerr.png">
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radkacper&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacperradomski&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" 
     height="175" style="margin-right: 20px;" align="right">
   I am keenly focused on web development.<br><br>
     
