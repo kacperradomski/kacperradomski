@@ -1,5 +1,6 @@
-<img src="https://github.com/kacperradomski/kacperradomski/blob/main/profile-bannerr.png">
 <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacperradomski&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" 
+    height="175" style="margin-right: 20px;" align="right">
   I am keenly focused on web development.<br><br>
     
   I find joy in learning and growing through modern solutions with strong use of **JavaScript** and its libraries. Combining it all together with databases like **MongoDB** and various types of **APIs** is particularly rewarding.
